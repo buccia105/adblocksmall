@@ -5,3 +5,4 @@ clients4.google.com
 clientservices.googleapis.com	
 i.ytimg.com
 play.googleapis.com
+yt3.ggpht.com
