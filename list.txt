@@ -12,4 +12,5 @@ rr3---sn-uxaxpu5ap5-c1ve.googlevideo.com
 rr2---sn-uxaxpu5ap5-c1ve.googlevideo.com
 rr1---sn-uxaxpu5ap5-c1ve.googlevideo.com
 rr5---sn-hpa7zn7d.googlevideo.com
+1.us.pool.ntp.org
 
